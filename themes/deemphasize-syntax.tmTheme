@@ -3,26 +3,26 @@
 <plist version="1.0">
   <dict>
     <key>name</key>
-    <string>Minimal Colors</string>
+    <string>Deemphasize Syntax</string>
     <key>settings</key>
     <array>
       <dict>
         <key>settings</key>
         <dict>
           <key>background</key>
-          <string>#222222</string>
+          <string>#16161d</string>
 
           <key>caret</key>
           <string>#efdc0b</string>
 
           <key>foreground</key>
-          <string>#c0c0c0</string>
+          <string>#cbd4d4</string>
 
           <key>lineHighlight</key>
-          <string>#1b1b1b</string>
+          <string>#25252D</string>
 
           <key>selection</key>
-          <string>#111111</string>
+          <string>#34343d</string>
 
           <key>activeLinkForeground</key>
           <string>#5c61d3</string>
@@ -48,7 +48,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#707070</string>
+          <string>#f0ffff</string>
         </dict>
       </dict>
     </array>

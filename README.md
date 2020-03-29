@@ -1,22 +1,7 @@
-# Minimal Colors
+# Deemphasize Syntax
 
-A minimal syntax highlighting theme for [Visual Studio Code](http://code.visualstudio.com)
-
-![image](./screenshot.png)
-
-## Installation
-
-1. Go to `View -> Extensions`
-1. Search for `Minimal Colors`
-1. Click the `Install` button
-1. Click `Reload` if prompted
-
-## Activate it
-
-1. Go to `View -> Command Palette...`
-1. Type `Preferences: Color Theme` and hit Enter
-1. Choose the `Minimal Colors` theme
+A dark [Visual Studio Code](http://code.visualstudio.com) theme that lets your eyes focus on the code's content, not its form. Forked from [theme-minimal-colors](https://github.com/andradei/theme-minimal-colors).
 
 ## License
 
-[MIT License](./LICENSE)
+MIT
