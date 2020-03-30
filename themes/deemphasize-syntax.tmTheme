@@ -16,10 +16,10 @@
           <string>#efdc0b</string>
 
           <key>foreground</key>
-          <string>#cbd4d4</string>
+          <string>#bbc4c4</string>
 
           <key>lineHighlight</key>
-          <string>#25252D</string>
+          <string>#25252d</string>
 
           <key>selection</key>
           <string>#34343d</string>
@@ -48,7 +48,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#f0ffff</string>
+          <string>#ffffff</string>
         </dict>
       </dict>
     </array>
