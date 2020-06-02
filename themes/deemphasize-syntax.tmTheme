@@ -16,7 +16,7 @@
           <string>#efdc0b</string>
 
           <key>foreground</key>
-          <string>#bbc4c4</string>
+          <string>#b9b9c1</string>
 
           <key>lineHighlight</key>
           <string>#25252d</string>
@@ -24,17 +24,8 @@
           <key>selection</key>
           <string>#34343d</string>
 
-          <key>activeLinkForeground</key>
-          <string>#5c61d3</string>
-
           <key>hoverHighlight</key>
-          <string>#333673</string>
-
-          <key>invisibles</key>
-          <string>#2f2f2f</string>
-
-          <key>guide</key>
-          <string>#2f2f2f</string>
+          <string>#25252d</string>
         </dict>
       </dict>
 
