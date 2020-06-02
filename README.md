@@ -4,6 +4,8 @@ A dark [Visual Studio Code](http://code.visualstudio.com) theme that lets your e
 
 [![Screenshot](https://github.com/firoxer/deemphasize-syntax/blob/master/screenshot.png)
 
+The font in the screenshot is [Iosevka Fixed](https://github.com/be5invis/Iosevka).
+
 ## License
 
 MIT
