@@ -2,7 +2,7 @@
     "name": "deemphasize-syntax",
     "displayName": "Deemphasize Syntax",
     "description": "A dark theme that lets your eyes focus on the code's content, not its form",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "firoxer",
     "license": "MIT",
     "bugs": {
